@@ -26,8 +26,8 @@
   <a href="#">
     <img alt="Spotify" title="" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
   <a href="https://flutter.dev">
-    <img alt="flutter" title="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
-  <a href="#">
+    <img alt="google dev" title="google developes" src="https://img.shields.io/badge/Google%20Developers-68217A?&style=for-the-badge&logo=google&logoColor=white"/></a>
+  <a href="https://g.dev/zuhabul">
     <img alt="vs" title="vs" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/></a>
 </p>
 
